@@ -1,0 +1,13 @@
+
+.gold {
+  color: gold;
+}
+.star{
+  font-size: 25px;
+  cursor: pointer;
+}
+.colored{
+  font-size: 25px;
+  cursor: pointer;
+  color: gold;
+}
